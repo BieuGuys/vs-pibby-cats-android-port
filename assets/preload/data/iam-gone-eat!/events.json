@@ -1,0 +1,544 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "corrupted",
+		"player1": "pibby bf",
+		"player2": "pibby garfield",
+		"player3": null,
+		"events": [
+			[
+				40000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"36"
+					]
+				]
+			],
+			[
+				90666.6666666667,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					],
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				96666.6666666666,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				103333.333333333,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				109750,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				111083.333333333,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				116916.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				121750,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				124416.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				128166.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				130833.333333334,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				137750,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				141333.333333333,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				146666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				158666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				162666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				170666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				173333.333333333,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				176583.333333334,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				177916.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				181333.333333334,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				182666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				186666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				188416.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				191083.333333334,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				193333.333333334,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				194666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				201750,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				204000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				204083.333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				204166.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				204250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				204333.333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				204416.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				204500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				204583.333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				205000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				205083.333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				205166.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				205250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				205333.333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				205666.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				206000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				206333.333333334,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				206666.666666667,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"0"
+					]
+				]
+			],
+			[
+				206666.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "bibby gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "iam-gone-eat!"
+	}
+}
