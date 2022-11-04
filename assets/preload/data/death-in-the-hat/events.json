@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3.9,
+		"stage": "TheCatBG",
+		"player1": "pibby bf",
+		"player2": "TheCatInTheHat",
+		"player3": null,
+		"events": [
+			[
+				18600,
+				[
+					[
+						"DodgeEvent",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				59400,
+				[
+					[
+						"DodgeEvent",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"DodgeEvent",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"DodgeEvent",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFpibby",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "death-in-the-hat"
+	}
+}
