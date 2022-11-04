@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.7,
+		"stage": "studio",
+		"player1": "Iljuha909",
+		"player2": "Huggy Wuggy",
+		"player3": null,
+		"events": [
+			[
+				67200,
+				[
+					[
+						"Play Animation",
+						"corrupted",
+						"Dad"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Change Character",
+						"1",
+						"corruption"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"1",
+						"corrupted Wuggy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "iam-not-a-cat"
+	}
+}
