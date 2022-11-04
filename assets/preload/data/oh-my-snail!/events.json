@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "SpongeBobHouse",
+		"player1": "SpongeBob",
+		"player2": "Garry",
+		"player3": null,
+		"events": [
+			[
+				138352.94117647,
+				[
+					[
+						"Change Character",
+						"0",
+						"CorruptedSpongeBob"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "oh-my-snail!"
+	}
+}
