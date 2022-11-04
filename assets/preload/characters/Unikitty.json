@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "unikitty idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "unikitty left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "unikitty down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "unikitty up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "unikitty right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Unikitty",
+	"position": [
+		-220,
+		0
+	],
+	"healthicon": "unikitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		139,
+		218
+	],
+	"camera_position": [
+		30,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

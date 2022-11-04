@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Huggy dancea"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Huggy danceb"
+		},
+		{
+			"offsets": [
+				-1,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Huggy left"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Huggy down"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Huggy up"
+		},
+		{
+			"offsets": [
+				2,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Huggy right"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "corrupted",
+			"loop": false,
+			"name": "Huggy corruption"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Huggy",
+	"position": [
+		330,
+		-430
+	],
+	"healthicon": "huggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		139,
+		178
+	],
+	"camera_position": [
+		-180,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

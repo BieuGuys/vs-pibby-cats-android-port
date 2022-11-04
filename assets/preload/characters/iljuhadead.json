@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "iljuha dead",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "iljuha crying",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "iljuha respawn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Iljuhadead",
+	"position": [
+		20,
+		130
+	],
+	"healthicon": "iljuha",
+	"flip_x": true,
+	"healthbar_colors": [
+		208,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

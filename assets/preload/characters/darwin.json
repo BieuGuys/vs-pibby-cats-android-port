@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "darwin idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "darwin left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "darwin right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "darwin down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "darwin up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darwin",
+	"position": [
+		-330,
+		110
+	],
+	"healthicon": "darwin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		125,
+		20
+	],
+	"camera_position": [
+		-10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "azrael idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "azrael left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "azrael right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "azrael down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "azrael up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/azrael",
+	"position": [
+		-330,
+		100
+	],
+	"healthicon": "azrael",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		61,
+		1
+	],
+	"camera_position": [
+		170,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

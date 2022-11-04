@@ -1,0 +1,130 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CRgarfield garfield left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CRgarfield garfield right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CRgarfield garfield down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CRgarfield garfield up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "haha",
+			"fps": 24,
+			"name": "CRgarfield haha",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "CRgarfield haha"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CRgarfield garfield idle",
+			"indices": [
+				2,
+				4,
+				3,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				-3,
+				-8
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "CRgarfield attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crgarfield",
+	"position": [
+		-230,
+		-70
+	],
+	"healthicon": "garfield",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		165,
+		0
+	],
+	"camera_position": [
+		-40,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "CRGF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "CRGF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CRGF left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CRGF down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CRGF up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CRGF right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CRGF",
+	"position": [
+		-300,
+		10
+	],
+	"healthicon": "CRGF",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		29,
+		131
+	],
+	"camera_position": [
+		-110,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
